@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532688473211",
+    "project_id": "chattest-c27ba",
+    "storage_bucket": "chattest-c27ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532688473211:android:a1dfb264795d2de393e6de",
+        "android_client_info": {
+          "package_name": "com.example.chat_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm6JWp-Eo7wKv5xuzgaUOaHdxFyxXJ_54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
